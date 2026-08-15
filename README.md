@@ -1,11 +1,9 @@
-# LoanDefault
+# Loan Default and Expected Loss
 
 A logistic-regression exercise that estimates a borrower's probability of default and converts it into an expected credit loss.
 
 > 09/2024<br>
 > J.P. Morgan Chase Forage Quantitative Research Job Simulation
-
-# Loan Default and Expected Loss
 
 ## Project overview
 
